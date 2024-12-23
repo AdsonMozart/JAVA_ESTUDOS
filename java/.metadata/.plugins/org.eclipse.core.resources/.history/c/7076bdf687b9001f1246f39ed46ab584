@@ -1,0 +1,12 @@
+package streams;
+
+import java.util.function.Function;
+
+public class DesafioUtilitarios {
+
+	StringBuilder sb = new StringBuilder()
+	
+	public final static Function<Integer, String> binarizando = exemplo -> Integer.toBinaryString(exemplo);
+	public final static Function<String> invertendo = exemplo ->  
+	public final static Function<Integer, String> binarizanssdo = exemplo -> Integer.toBinaryString(exemplo);
+}

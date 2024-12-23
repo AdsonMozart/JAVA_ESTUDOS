@@ -1,0 +1,13 @@
+package streams;
+
+import java.util.function.Function;
+import java.util.function.UnaryOperator;
+
+public class DesafioUtilitarios {
+
+	StringBuilder sb = new StringBuilder()
+	
+	public final static Function<Integer, String> binarizando = exemplo -> Integer.toBinaryString(exemplo);
+	public final static UnaryOperator<String> invertendo = exemplo -> exemp
+	public final static Function<Integer, String> binarizanssdo = exemplo -> Integer.toBinaryString(exemplo);
+}
